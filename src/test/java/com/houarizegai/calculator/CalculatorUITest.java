@@ -11,7 +11,7 @@ class CalculatorUITest {
 
     private CalculatorUI calculatorUI;
 
-    @BeforeEach
+    @BeforeeEach
     void setUp() {
         calculatorUI = new CalculatorUI();
     }
